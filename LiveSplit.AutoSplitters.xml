@@ -4379,5 +4379,15 @@
     <Type>Script</Type>
     <Description>Auto Splitting and Load Removal are available. (By Auddy)</Description>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Outcast - Second Contact</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/AndersPantzar/OutcastSC_SplitLoadRemoval/master/LiveSplit.OutcastSecondContact.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By AndersPantzar)</Description>
+  </AutoSplitter>
 </AutoSplitters>
 
